@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @winnergetsyou
-- 👀 I’m interested in robotics embedded systems and ROS 
-- 🌱 I’m currently learning ROS ARDUINO INTEGRATION
+- 👋 Hi, I’m ajith
+- 👀 I’m interested in robotics, embedded systems and ROS 
+- 🌱 I’m self-employed
 - 💞️ I’m looking to collaborate on Robotics projects 
 - 📫 How to reach me ...
 
