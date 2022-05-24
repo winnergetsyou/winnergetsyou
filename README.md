@@ -1,8 +1,20 @@
-- 👋 Hi, I’m ajith
-- 👀 I’m interested in robotics, embedded systems and ROS 
-- 🌱 I’m self-employed
-- 💞️ I’m looking to collaborate on Robotics projects 
-- 📫 How to reach me ...
+> # WELCOME TO MY GITHUB PAGE !
+
+
+I have profound knowledge in ***Robotics and Software Development***. I develop contents for customized course and practical ideas for robot/embedded system projects. With my years of self-project experience, I can turn ideas into reality through software. 
+
+**I like to code for Robots, Embedded system & for designing Websites**.I love exploring new ideas in science and I support the people who are onto exploration. I wish YOU all Great success in Your life . 
+
+***
+
+I will be contributing projects in 
+
+- C++
+- PYTHON
+- ROS
+- MICRO-CONTROLLERS - ARDUINO boards
+
+Lets create some open source project !!!
 
 <!---
 winnergetsyou/winnergetsyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
