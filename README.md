@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
 |course| ROS_Basics_Arduino_Interfacing
 |--|--|
 |content_1| ROS Basics 
-|2|ROS Package program|
-|3|Arduino interface Program|
-|4|Interface Demo|
+|content_2|ROS Package program|
+|content_3|Arduino interface Program|
+|content_4|Interface Demo|
 
 > *** 
 > ***CLICK_ME [My_NEW_UDEMY_COURSE_ROS_Repo](https://github.com/winnergetsyou/COURSE_1_ROS_NODES.git)***
