@@ -37,3 +37,6 @@ You can click the Preview link to take a look at your changes.
 > ***
 > ***CLICK_ME [My_NEW_UDEMY_COURSE_Arduino_Repo](https://github.com/winnergetsyou/Course_1_Arduino.git)***
 > ***
+> ***CLICK_ME [Internship_1_TSA](https://github.com/winnergetsyou/Course_1_Arduino.git)***
+> ***
+> ***CLICK_ME [NEW_Open_Source_Project-(ON-PROGRESS)](https://github.com/winnergetsyou/ROBOT_CAR.git)***
