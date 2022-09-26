@@ -4,7 +4,6 @@
 I have profound knowledge in ***Robotics and Software Development***. I develop contents for customized course and practical ideas for robot/embedded system projects. With my years of self-project experience, I can turn ideas into reality through software. 
 
 **I like to code for Robots, Embedded system & for designing Websites**.I love exploring new ideas in science and I support the people who are onto exploration. I wish YOU all Great success in Your life . 
-
 ***
 
 I will be contributing projects in 
@@ -21,6 +20,11 @@ winnergetsyou/winnergetsyou is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![I_am_a_developer](Capture.JPG)
+
+> # *Wanna become Embedded Software developer???*
+> 1. Check this out [Embedded Software Developer Website](https://winnergetsyou.github.io/Embedded-Software-Developer.github.io/)
+> 2. My first Multipage website (hosted on github!)
+***
 
 > # CLICK ME [My_NEW_UDEMY_COURSE](https://www.udemy.com/course/ros-basics-and-ros-arduino-interfacing/)
 
