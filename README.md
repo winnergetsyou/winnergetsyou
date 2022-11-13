@@ -12,6 +12,7 @@ I will be contributing projects in
 - PYTHON
 - ROS
 - MICRO-CONTROLLERS - ARDUINO boards
+- WEB DEVELOPMENT - FULL STACK ! 
 
 Lets create some open source project !!! lets teach what we learn 
 
