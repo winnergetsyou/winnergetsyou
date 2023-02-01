@@ -1,6 +1,5 @@
 > # WELCOME TO MY GITHUB PAGE !
 
-![](https://komarev.com/ghpvc/?username=winnergetsyou)
 
 
 I have profound knowledge in ***Robotics and Software Development***. I develop contents for customized course and practical ideas for robot/embedded system projects. With my years of self-project experience, I can turn ideas into reality through software. 
@@ -60,9 +59,13 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
+
+
 > # MY NEW OPEN SOURCE PROJECT 
 > Let's everyone make use of State of art Algorithm in robot car  
 > Goal: Intergrating ROS, Machine_learning algorithms  
 > ***CLICK_ME [NEW_Open_Source_Project-(ON-PROGRESS)](https://github.com/winnergetsyou/ROBOT_CAR.git)***
 
 ***
+
+![](https://komarev.com/ghpvc/?username=winnergetsyou)
