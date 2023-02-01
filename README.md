@@ -1,5 +1,7 @@
 > # WELCOME TO MY GITHUB PAGE !
 
+![](https://komarev.com/ghpvc/?username=winnergetsyou)
+
 
 I have profound knowledge in ***Robotics and Software Development***. I develop contents for customized course and practical ideas for robot/embedded system projects. With my years of self-project experience, I can turn ideas into reality through software. 
 
