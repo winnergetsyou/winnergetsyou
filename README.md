@@ -9,11 +9,10 @@ I have profound knowledge in ***Robotics and Software Development***. I develop 
 
 I will be contributing projects in 
 
-- C++
-- PYTHON
-- ROS
-- MICRO-CONTROLLERS - ARDUINO boards
 - WEB DEVELOPMENT - FULL STACK ! 
+- JAVASCRIPT, HTML, CSS
+- C++, PYTHON
+- ROS, MICRO-CONTROLLERS - ARDUINO boards
 
 Lets create some open source project !!! lets teach what we learn 
 
