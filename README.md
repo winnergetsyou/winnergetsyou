@@ -2,7 +2,7 @@
 
 
 
-I have profound knowledge in ***Robotics and Software Development***. I develop contents for customized course and practical ideas for robot/embedded system projects. With my years of self-project experience, I can turn ideas into reality through software. 
+I have profound knowledge in ***Software Development***. I develop contents for customized course and practical ideas for robot/embedded system projects. With my years of self-project experience, I can turn ideas into reality through software. 
 
 **I like to code for Robots, Embedded system & for designing Websites**.I love exploring new ideas in science and I support the people who are onto exploration. I wish YOU all Great success in Your life . 
 ***
